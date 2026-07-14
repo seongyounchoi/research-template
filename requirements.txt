@@ -1,2 +1,2 @@
-# Add project-specific dependencies here after creating a new project from this template.
-# Examples, when needed: torch, transformers, datasets, numpy, pandas, scikit-learn.
+# 이 템플릿으로 새 프로젝트를 생성한 뒤 프로젝트별 의존성을 추가합니다.
+# 필요 시 예: torch, transformers, datasets, numpy, pandas, scikit-learn
