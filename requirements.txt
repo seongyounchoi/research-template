@@ -1,0 +1,2 @@
+# Add project-specific dependencies here after creating a new project from this template.
+# Examples, when needed: torch, transformers, datasets, numpy, pandas, scikit-learn.
