@@ -59,3 +59,16 @@ temp/
 Thumbs.db
 .vscode/
 .idea/
+
+# Server and training artifacts
+nohup.out
+slurm-*.out
+*.pid
+
+# Local caches
+.cache/
+cache/
+
+# Hugging Face local caches
+huggingface/
+hf_cache/
